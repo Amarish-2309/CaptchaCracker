@@ -1,4 +1,5 @@
 # CaptchaCracker
+It ia a java Project 
 It can solve the Captcha Automatically
 
 You have to download the latest  selenium server  from the website and the tessdata file from the tessdata github Repo.
